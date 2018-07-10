@@ -1,0 +1,114 @@
+html,body {
+    height: 100%;
+    background-color: #F6EFDF;
+}
+
+
+
+
+/* Navbar color*/
+.navbar-color , a{
+    background-color: #4292B4  ;
+    color: white !important;
+}
+
+.navbar {
+    border: 1px solid black;
+}
+
+
+/* Jumbotron bg color */
+#jum-mar-bg{
+    background-image: url("images/city.jpg");
+    background-size: cover;
+    background-color: #FFFFFF;
+}
+
+.jum-mar-top {
+    margin-top: 100px;
+}
+
+.jumbotron p {
+    font-size: 23px;
+    color: #F5F5BA;
+    height: 350px;
+    text-shadow: 1px 1px 6px green; 
+}
+
+
+.site-name {
+    font-size: 60px;
+    font-weight: 500; 
+    text-shadow: 1px 1px 5px #F5F5C4 ;
+}
+
+
+.portfolio-pics {
+    margin-top: 30px;
+    
+   
+}
+
+
+.space-class {
+    margin-top: 400px;
+    
+}
+
+.set-1-btngroup {
+    margin-top: 100px;
+}
+
+hr {
+    border: 1px solid lightgray;
+}
+ 
+
+.img-top-padding {
+    margin-top: 100px;   
+}
+
+
+.btn:hover {
+    background-color: #4A6A44;
+    color: white;
+    border-color: black
+}
+
+.btn {
+    border-color: black;
+    color: black;
+}
+
+.display-4 {
+    font-family: George, serif;
+   
+}
+
+/* portfolio message text*/
+.para-port-font {
+    font-size: 20px;
+    font-family: George, serif;
+}
+
+
+.hr-container {
+    margin-bottom: 100px
+}
+
+.footer-container {
+    background-color: #4A6A44;
+    height: 300px;
+    border-top: 2px solid black;
+   
+}
+
+
+.about-me {
+    color: white;
+}
+
+
+
+
+
